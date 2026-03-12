@@ -1,0 +1,11 @@
+//c++ code to print student name ,branch,section.
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"Gowthami"<<endl;
+cout<<"CSE"<<endl;
+cout<<"5EJ"<<"\n";
+cout<<"SEC-D";
+return 0;
+}
