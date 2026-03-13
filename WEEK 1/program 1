@@ -3,9 +3,9 @@
 using namespace std;
 int main()
 {
-cout<<"Gowthami"<<endl;
+cout<<"Leela"<<endl;
 cout<<"CSE"<<endl;
-cout<<"5EJ"<<"\n";
+cout<<"5EG"<<"\n";
 cout<<"SEC-D";
 return 0;
 }
